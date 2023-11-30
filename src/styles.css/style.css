@@ -59,6 +59,7 @@ h1 {
 .pictures .picture .imageContainer {
   height: 40vh;
   overflow: hidden;
+  border-radius: 50%;
 }
 
 .pictures .picture .imageContainer img {
